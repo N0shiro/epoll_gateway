@@ -1,0 +1,13 @@
+root = true
+
+[*.{c,cc,cpp,h,hpp,md,txt,cmake}]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[CMakeLists.txt]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
